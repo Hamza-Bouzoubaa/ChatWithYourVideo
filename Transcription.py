@@ -9,7 +9,6 @@ import os
 
 load_dotenv()
 hf_token = os.getenv('hf_token')
-print(hf_token)
 
 
 

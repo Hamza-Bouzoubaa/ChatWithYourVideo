@@ -4,8 +4,15 @@ from pydub import AudioSegment
 import os
 import pandas as pd
 
+from dotenv import load_dotenv
+import os
 
-def transcribe_with_diarization(audio_file_path,OutputFile, model_type="large-v2", device="cpu", hf_token="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"):
+load_dotenv()
+hf_token = os.getenv('hf_token')
+
+
+
+def transcribe_with_diarization(audio_file_path,OutputFile, model_type="large-v2", device="cpu", hf_token=hf_token):
     # Step 1: Load the WhisperX model with float32 compute type
     model = whisperx.load_model(model_type, device, compute_type="float32")
 
