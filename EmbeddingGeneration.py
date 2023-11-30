@@ -61,3 +61,4 @@ def QuerySimilaritySearch(Query,db,k=1):
     similar = db.similarity_search(Query,k)
     page_content_array = [doc.page_content for doc in similar]
     return page_content_array
+

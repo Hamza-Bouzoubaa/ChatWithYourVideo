@@ -55,4 +55,3 @@ def transcribe_with_diarization(audio_file_path,OutputFile, model_type="large-v2
 
     return transcription
 
-transcribe_with_diarization("audio.wav","transcription.txt")
