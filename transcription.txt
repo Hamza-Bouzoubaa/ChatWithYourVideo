@@ -1,0 +1,26 @@
+SPEAKER_02: 
+ What's really important is that we think how to store data for the long term and how we store it sustainably. If we carry on the way we're going, we're going to have to concrete the whole planet just to store the data that we're generating.And of course, that's not acceptable.The hard disk drives and tape are used to store the large amounts of data, those photos that you take on your phone.Now, that is all magnetic technology.It all has a finite lifetime.You therefore have to keep copying it over to new generations of media.A hard disk drive might last five years.A tape, well, if you're brave, it might last 10 years. But once that lifetime is up, you've got to copy it over.And that, frankly, is both difficult and it's also tremendously unsustainable.If you think of all that energy, all that resource that we're using, glass is actually very durable.You can put it in boiling water.You can put it in an oven.You can even scratch the outside of it.And it's going to be able to keep that data that's stored inside it completely safe.
+
+SPEAKER_01: 
+ So in Project Silica, we're developing a completely new storage technology, and we're designing it for the cloud.And what this is going to enable is a completely new way of storing data practically forever.
+
+SPEAKER_05: 
+So there are four different aspects to the project.
+
+SPEAKER_00: 
+ Welcome to the Bright Lab.This is the first step of the data into the glass.So we create these very short laser pulses with our laser systems that allow us to modify the glass and to store the data in it.
+
+SPEAKER_05: 
+So the data is actually encoded in something we describe as voxels.Now you're probably familiar with what a pixel is, and a voxel is just a three-dimensional pixel. This is where actually our data in the glass is read.We have a live feed here of how the boxes look like once we find them.So a reader is really a computer-controlled, very high-speed, very accurate microscope.And we can move the piece of glass very rapidly to the area where it contains the data we actually want to read.
+
+SPEAKER_03: 
+ Now we're in the stage three of the glass journey, which is where we process the information that has been written in the glass so that we can decode the symbols.
+
+SPEAKER_04: 
+So once the glass is written, it's read, and it's decoded, it comes here to the library.When someone needs their data back, the Silica system will send one of these robots to pick the piece of glass that their data was written on and bring it to a reader. A really exciting aspect of this design is all the complexity is in the robot.Where the rest of the library, it's passive, there's no electricity in any of the storage units, and it's a much more sustainable way of us storing our data for the future.
+
+SPEAKER_05: 
+ The ability to write data and know that it's going to remain.It won't get changed, it won't get lost, and it won't cost the earth.
+
+SPEAKER_02: 
+Sustainability is so important to both Microsoft and the planet.That's why I joined Microsoft 25 years ago, and that's still what keeps me coming in today.
